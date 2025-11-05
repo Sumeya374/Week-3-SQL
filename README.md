@@ -11,4 +11,4 @@ In Week 3, I learned about relational and non-relational databases, including th
 - How to work with subqueries
 - How to work with null values
 
-database-keys-primary-secondary-foreign-relationships.png
+![Diagram illustrating Primary, Foreign, and Secondary Keys and their Relationships in a database](database-keys-primary-secondary-foreign-relationships.png)
