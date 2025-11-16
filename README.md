@@ -11,4 +11,4 @@ In Week 3, I learned about relational and non-relational databases, including th
 - How to work with subqueries
 - How to work with null values
 
-![Cities with Population Between 500k and 1 Million](Cities_Population_Between_500k_And_1million.png)
+<img src="Cities_Population_Between_500k_And_1million.png" alt="Cities with Population Between 500k and 1 Million" width="400">
